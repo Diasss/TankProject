@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankWar", "TankWar\TankWar.csproj", "{B9185962-6FB4-4CAD-BDC8-6A6874EEE55A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9185962-6FB4-4CAD-BDC8-6A6874EEE55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9185962-6FB4-4CAD-BDC8-6A6874EEE55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9185962-6FB4-4CAD-BDC8-6A6874EEE55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9185962-6FB4-4CAD-BDC8-6A6874EEE55A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {611DF82D-6220-4E67-A863-D63E4D307114}
+	EndGlobalSection
+EndGlobal
